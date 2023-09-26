@@ -1,6 +1,6 @@
 # Restaurant Website. 
 
-This is my Restaurant Project, a dynamic and visually appealing web application crafted with HTML, CSS, and JavaScript.  journey. Bon appétit! 🍽️👨‍🍳
+This is my Restaurant Project, a dynamic and visually appealing web application crafted with HTML, CSS, and JavaScript. Bon appétit! 🍽️👨‍🍳
 
 ## Key Features
 - Interactive menu showcasing our delectable dishes.
